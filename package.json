@@ -1,0 +1,16 @@
+{
+  "name": "homa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "pg": "^8.9.0",
+    "tronweb": "^5.1.0"
+  }
+}
